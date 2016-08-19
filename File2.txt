@@ -3,3 +3,7 @@ Here is some seed content
 file2.txt
 file2.txt
 file2.txt
+
+
+Changes for feature 1 here
+Changes for feature 1 here

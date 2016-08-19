@@ -1,2 +1,5 @@
 This is content in file1.txt
 Here is some seed content
+
+Changes for feature 1 here
+Changes for feature 1 here
