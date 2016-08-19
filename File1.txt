@@ -1,0 +1,2 @@
+This is content in file1.txt
+Here is some seed content
