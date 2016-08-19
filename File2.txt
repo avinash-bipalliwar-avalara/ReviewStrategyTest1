@@ -7,3 +7,5 @@ file2.txt
 
 Changes for feature 1 here
 Changes for feature 1 here
+
+some more changes for feature 1
